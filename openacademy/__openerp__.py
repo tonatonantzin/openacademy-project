@@ -9,6 +9,7 @@
             - training courses
             - training sessions
             - attendees registration
+        Curso tecnico
     """,
 
     'author': "Vauxoo",
