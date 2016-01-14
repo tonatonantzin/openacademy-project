@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from openerp import fields, model
+from openerp import fields, models
 
 class Session(models.Model):
     _name = 'openacademy.session'
