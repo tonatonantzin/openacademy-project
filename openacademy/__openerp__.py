@@ -29,6 +29,7 @@
         'views/openacademy_course_view.xml',
         'views/openacademy_session_view.xml',
         'views/partner_view.xml',
+        'workflow/openacademy_session_workflow.xml',
         # 'security/ir.model.access.csv',
         #'templates.xml',
     ],
